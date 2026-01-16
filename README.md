@@ -1,20 +1,32 @@
-# Excel-Sales-Performance-Dashboard
-## Overview
-This project analyses sales data to understand performance trends and support business decision-making.
+# Sales Performance Dashboard
 
-## Tools Used
-- Microsoft Excel
+## Overview
+This Excel project explores sales performance data to produce actionable insights for business decisions.
+
+## Tools & Skills
+- Microsoft Excel (Pivot Tables, Lookups, Charts)
+- Data cleaning & validation
+- Dashboard design
+- Insight generation
 
 ## What I Did
-- Cleaned and validated raw sales data
-- Built pivot tables for analysis
-- Created a dashboard with KPIs and charts
+- Cleaned and validated sales data
+- Built multiple pivot tables for segmentation
+- Created an interactive dashboard with key performance indicators
+- Summarised trends and high-impact results
 
 ## Key Insights
-- Identified top-performing regions and products
-- Analysed revenue trends over time
+- [Insert 1–2 insights like “Region X contributed 30% of revenue”]
+- [Optional visuals if available]
 
-## What I Learned
-- Data cleaning best practices
-- Dashboard design
-- Translating data into business insights
+## How to Use
+1. Open the file
+2. Navigate to the Dashboard tab
+3. Use slicers to explore by region/category
+
+---
+
+## 📌 What I Learned
+- Practical Excel for business analytics
+- Interpreting data to support decisions
+- Presenting insights visually
