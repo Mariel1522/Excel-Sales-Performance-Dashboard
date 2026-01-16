@@ -1,6 +1,4 @@
 # Excel-Sales-Performance-Dashboard
-# Excel Sales Performance Dashboard
-
 ## Overview
 This project analyses sales data to understand performance trends and support business decision-making.
 
