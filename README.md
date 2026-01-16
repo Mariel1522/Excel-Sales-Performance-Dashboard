@@ -22,4 +22,5 @@ This project analyses sales performance using Excel PivotTables, PivotCharts, an
 - Equipment generated the largest share of revenue
 
 ## Screenshot
-![Dashboard](dashboard_screenshot.png)
+
+<img width="1210" height="622" alt="Screenshot 2026-01-16 at 16 38 44" src="https://github.com/user-attachments/assets/b251cb80-dd5e-46b8-a605-dd1e8b9801e8" />
