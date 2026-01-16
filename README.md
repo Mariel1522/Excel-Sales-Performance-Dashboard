@@ -1,32 +1,25 @@
-# Sales Performance Dashboard
+# Excel Sales Performance Dashboard
 
 ## Overview
-This Excel project explores sales performance data to produce actionable insights for business decisions.
+This project analyses sales performance using Excel PivotTables, PivotCharts, and interactive slicers.
 
-## Tools & Skills
-- Microsoft Excel (Pivot Tables, Lookups, Charts)
-- Data cleaning & validation
-- Dashboard design
-- Insight generation
+## Key Features
+- Revenue analysis by product, category, region, and month
+- Interactive slicers for Category, Region, and Product
+- KPI summary including Total Revenue, Top Month, and Top Product
+- Clean dashboard layout designed for business users
 
-## What I Did
-- Cleaned and validated sales data
-- Built multiple pivot tables for segmentation
-- Created an interactive dashboard with key performance indicators
-- Summarised trends and high-impact results
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
+- Basic data cleaning and aggregation
 
-## Key Insights
-- [Insert 1–2 insights like “Region X contributed 30% of revenue”]
-- [Optional visuals if available]
+## Insights
+- February was the highest revenue month
+- Tent 2-Person was the top-performing product
+- Equipment generated the largest share of revenue
 
-## How to Use
-1. Open the file
-2. Navigate to the Dashboard tab
-3. Use slicers to explore by region/category
-
----
-
-## 📌 What I Learned
-- Practical Excel for business analytics
-- Interpreting data to support decisions
-- Presenting insights visually
+## Screenshot
+![Dashboard](dashboard_screenshot.png)
